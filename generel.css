@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", "Roboto", sans-serif;
+  background-color: beige;
+  color: black;
+}
+
+header {
+  background-color: beige;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 24px;
+  text-align: center; /* ← ekstra sikkerhed */
+  width: 100%;
+}
+
+section {
+  margin-bottom: 40px;
+  padding: 0 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  display: inline-block;
+  margin-top: 10px;
+  color: black;
+  font-weight: bold;
+}
